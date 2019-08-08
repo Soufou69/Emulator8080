@@ -4,9 +4,9 @@ Intel8080 emulator C++
 -------------------------------------
 Goal : 
 
-  -For now just emulate Space Invaders and other games
+  	-For now just emulate Space Invaders and other games
 	
-  -The full emulation
+  	-The full emulation
   
 -------------------------------------
 Actual State : 
