@@ -18,7 +18,6 @@ void ReadFileIntoMemoryAt(Emulator emu, const char* filename, uint32_t offset)
 }
 
 int main() {
-	std::cout << "Hello World" << std::endl;
 
 	int done = 0;
 	int vblankcycles = 0;
